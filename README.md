@@ -1,6 +1,6 @@
 # Landing Page
 
-Este é um projeto de uma **landing page** simples, criada para [insira o objetivo aqui, como "promover um serviço", "capturar leads", etc.].
+Este é um projeto de uma **landing page** simples, criada para um projeto pessoal.
 
 ## Funcionalidades
 
