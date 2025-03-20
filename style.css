@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #000000d6;
+    padding: 10px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    margin: 0 20px;
+}
+
+header nav ul li a {
+    color: #00fbff;
+    text-decoration: none;
+}
+
+.hero {
+    background-color: #002f4e;
+    color: #00fbff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3em;
+}
+
+.hero .btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #002f4e;
+    color: #00fbff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#sobre {
+    padding: 50px 20px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+#sobre h2 {
+    font-size: 2.5em;
+}
+
+#contato {
+    padding: 50px 20px;
+}
+
+#contato form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#contato input, #contato textarea {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #00d9ff;
+    border-radius: 5px;
+}
+
+#contato button {
+    padding: 10px;
+    background-color: #0d149c;
+    color: #0e1cdb;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#contato h2 {
+    margin-left: auto; 
+    margin-left: 620px;   
+    font-size: 2.0em;   
+    margin-top: -50px; 
+}
+
+#contato button:hover {
+    background-color: #002f4e;
+}
+
+footer {
+    background-color: #000000d6;
+    color: #00fbff;
+    padding: 20px;
+    text-align: center;
+}
