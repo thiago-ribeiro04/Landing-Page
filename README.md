@@ -7,6 +7,3 @@ Este é um projeto de uma **landing page** simples, criada para um projeto pesso
 - Estrutura básica da página com cabeçalho, conteúdo e rodapé.
 - Formulário para captura de e-mails (se aplicável).
 
-## Como rodar o projeto localmente
-
-gh repo clone thiago-ribeiro04/Landing-Page
